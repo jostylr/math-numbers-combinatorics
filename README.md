@@ -1,4 +1,3 @@
-math-numbers-combinatorics
-==========================
+## Math-Numbers-Combinatorics  
 
-combinatorial functions using math-numbers numbers
+Here we have the factorial, binomial, multinomial, ...
