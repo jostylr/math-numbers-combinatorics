@@ -41,6 +41,8 @@ Here we have the factorial, binomial, multinomial, ...
 
 Everything
 
+Integers it is clear. But other stuff? 
+
 ## NPM package
 
 The requisite npm package file. Use `npm run-script compile` to compile the literate program.
